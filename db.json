@@ -1,0 +1,32 @@
+{
+  "tours": [
+    {
+      "title": "",
+      "description": "",
+      "amenities": "",
+      "activities": "",
+      "imgUrl": "",
+      "link": "",
+      "location": "",
+      "type": "",
+      "tags": "",
+      "ratings": [],
+      "avearageRating": 0,
+      "destination": "",
+      "price": "",
+      "tourDates": []
+    }
+  ],
+  "bookings": {
+    "firstname": "John",
+    "lastname": "Carter",
+    "tourDate": "",
+    "applicationDate": "",
+    "noOfPupils": {
+      "adult": 1,
+      "children": 2,
+      "pets": 1
+    },
+    "tosAgreement": false
+  } 
+}

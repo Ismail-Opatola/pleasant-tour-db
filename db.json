@@ -2,28 +2,37 @@
   "tours": [
     {
       "title": "",
-      "description": "",
-      "amenities": "",
-      "activities": "",
+      "description": {
+        "details": "",
+        "access": "",
+        "accomodation": "",
+         "attractions": "",
+         "activities": "",
+         "amenities": "",
+         "map": ""
+      },
+      "flyerUrl": "",
       "imgUrl": "",
       "link": "",
-      "location": "",
+      "location": "Dubai",
       "type": "",
       "tags": "",
       "ratings": [],
-      "avearageRating": 0,
+      "avearageRating": 0.1,
       "destination": "",
       "price": "",
-      "tourDates": []
+      "tourDates": [] 
     }
   ],
   "bookings": {
     "firstname": "John",
     "lastname": "Carter",
-    "tourDate": "",
+    "email":"",
+    "phone": "",
+    "selectedTourDate": "",
     "applicationDate": "",
     "noOfPupils": {
-      "adult": 1,
+      "adults": 1,
       "children": 2,
       "pets": 1
     },

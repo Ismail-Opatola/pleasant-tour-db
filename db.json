@@ -1,47 +1,227 @@
 {
   "tours": [
     {
+      "id": "dbb82a1a-37f2-4079-acd7-13d5161687d8",
       "title": "30 days Transatlantic Boat Cruise",
       "description": {
         "details": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
         "access": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
         "accomodation": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
-         "attractions": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
-         "activities": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
-         "amenities": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
-         "map": ""
+        "attractions": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+        "activities": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+        "amenities": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65368563.61295087!2d-117.82461439612302!3d-0.2494932804537185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x65a81cae36eb8ff%3A0xa6342257f310534f!2sAtlantic%20Ocean!5e0!3m2!1sen!2sng!4v1607560029898!5m2!1sen!2sng"
       },
-      "flyerUrl": "",
-      "imgUrl": "",
-      "link": "",
-      "location": "Dubai",
-      "type": "cruise & voyage",
-      "tags": "",
-      "ratings": [ 
-        { 
-          "date": "", 
-          "name": "", 
-          "rating": 5 
+      "flyerUrl": "30-days-transatlantic-boat-cruise.pdf",
+      "imgUrl": "30-days-transatlantic-boat-cruise.jpg",
+      "pageUrl": "30-days-transatlantic-boat-cruise",
+      "destination": "Antactica",
+      "ratings": [
+        {
+          "date": "2020-12-09T02:57:19.820Z",
+          "name": "Wesley Bahringer",
+          "rating": 4
+        },
+        {
+          "date": "2020-12-09T13:56:35.360Z",
+          "name": "Angela Hand",
+          "rating": 1
+        },
+        {
+          "date": "2020-12-09T11:17:31.982Z",
+          "name": "Mable Swift",
+          "rating": 4
+        },
+        {
+          "date": "2020-12-09T02:31:16.491Z",
+          "name": "Christy Jakubowski",
+          "rating": 4
+        },
+        {
+          "date": "2020-12-09T02:18:19.350Z",
+          "name": "Miss Kristi Balistreri",
+          "rating": 1
+        },
+        {
+          "date": "2020-12-09T05:28:21.361Z",
+          "name": "Tracy Skiles I",
+          "rating": 1
+        },
+        {
+          "date": "2020-12-09T12:48:29.676Z",
+          "name": "Pete Skiles",
+          "rating": 5
         }
       ],
-      "avearageRating": 5.5,
-      "destination": "",
-      "price": 1500000,
-      "tourDates": [] 
+      "avearageRating": 3.33,
+      "totalRatings": 7,
+      "price": "2500000",
+      "tourDates": [
+        "2021-09-13T20:24:56.494Z",
+        "2021-01-20T11:55:31.456Z",
+        "2021-04-01T13:03:53.008Z"
+      ],
+      "category": "luxurious_cruise_and_voyage"
+    },
+    {
+      "id": "97f02d07-a628-4268-ab45-f8448faca8b9",
+      "title": "Thai Island Hopper East",
+      "description": {
+        "details": "Start and end in Koh Samui! With the Beach tour Thai Island Hopper East, you have a 9 days tour package taking you through Koh Samui, Thailand and 2 other destinations in Thailand. Thai Island Hopper East includes accommodation in a hotel as well as an expert guide, meals, transport and more.",
+        "access": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+        "accomodation": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+        "attractions": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+        "activities": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+        "amenities": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15929599.26837719!2d92.43851938436923!3d12.903714172355699!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d8df747424db1%3A0x9ed72c880757e802!2sThailand!5e0!3m2!1sen!2sng!4v1607561116115!5m2!1sen!2sng"
+      },
+      "flyerUrl": "thai-island-hopper-east.pdf",
+      "imgUrl": "thai-island-hopper-east.jpg",
+      "pageUrl": "thai-island-hopper-east",
+      "destination": "Thailand",
+      "ratings": [
+        {
+          "date": "2020-12-09T04:50:58.096Z",
+          "name": "Joanne Zieme",
+          "rating": 5
+        },
+        {
+          "date": "2020-12-09T03:14:48.996Z",
+          "name": "Clifton Walker V",
+          "rating": 5
+        },
+        {
+          "date": "2020-12-09T23:29:12.969Z",
+          "name": "Benny Heathcote",
+          "rating": 1
+        }
+      ],
+      "avearageRating": 1.83,
+      "totalRatings": 3,
+      "price": "1500000",
+      "tourDates": [
+        "2021-08-04T04:27:26.767Z",
+        "2021-07-03T23:36:51.198Z"
+      ],
+      "category": "beach_tours"
+    },
+    {
+      "id": "b7ec29fe-9bc1-4007-b02d-943f43a93b8b",
+      "title": "Thai Island Hopper East",
+      "description": {
+        "details": "Start and end in Koh Samui! With the Beach tour Thai Island Hopper East, you have a 9 days tour package taking you through Koh Samui, Thailand and 2 other destinations in Thailand. Thai Island Hopper East includes accommodation in a hotel as well as an expert guide, meals, transport and more.",
+        "access": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+        "accomodation": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+        "attractions": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+        "activities": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+        "amenities": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15929599.26837719!2d92.43851938436923!3d12.903714172355699!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d8df747424db1%3A0x9ed72c880757e802!2sThailand!5e0!3m2!1sen!2sng!4v1607561116115!5m2!1sen!2sng"
+      },
+      "flyerUrl": "thai-island-hopper-east.pdf",
+      "imgUrl": "thai-island-hopper-east.jpg",
+      "pageUrl": "thai-island-hopper-east",
+      "destination": "Thailand",
+      "ratings": [
+        {
+          "date": "2020-12-10T00:42:34.981Z",
+          "name": "Gerald Wuckert",
+          "rating": 4
+        },
+        {
+          "date": "2020-12-09T20:27:43.810Z",
+          "name": "Sonja Hackett",
+          "rating": 2
+        },
+        {
+          "date": "2020-12-09T10:40:14.339Z",
+          "name": "Kelvin Ledner",
+          "rating": 3
+        },
+        {
+          "date": "2020-12-09T14:58:55.786Z",
+          "name": "Ismael Wyman",
+          "rating": 2
+        },
+        {
+          "date": "2020-12-09T22:30:34.974Z",
+          "name": "Cecelia Dibbert",
+          "rating": 5
+        },
+        {
+          "date": "2020-12-09T20:11:59.206Z",
+          "name": "Bridget Bednar",
+          "rating": 6
+        },
+        {
+          "date": "2020-12-09T21:54:49.496Z",
+          "name": "Irene Beier",
+          "rating": 6
+        },
+        {
+          "date": "2020-12-09T18:42:50.429Z",
+          "name": "Franklin Orn",
+          "rating": 4
+        }
+      ],
+      "avearageRating": 5.33,
+      "totalRatings": 8,
+      "price": "1500000",
+      "tourDates": [
+        "2021-11-10T17:33:45.347Z",
+        "2021-03-29T09:10:31.765Z",
+        "2021-08-23T23:14:06.600Z"
+      ],
+      "category": "beach_tours"
     }
   ],
   "bookings": {
     "firstname": "John",
     "lastname": "Carter",
-    "email":"cartermails@gmail.com",
+    "email": "cartermails@gmail.com",
     "phone": "+2348174567777",
     "selectedTourDate": "",
     "applicationDate": "",
+    "tour": "",
+    "destination": "",
     "noOfPupils": {
       "adults": 1,
       "children": 2,
       "pets": 1
     },
     "tosAgreement": false
-  } 
+  },
+  "luxurious_cruise_and_voyage": [
+    {
+      "id": "dbb82a1a-37f2-4079-acd7-13d5161687d8",
+      "title": "30 days Transatlantic Boat Cruise",
+      "destination": "Antactica",
+      "price": "2500000",
+      "avearageRating": 3.33,
+      "imagUrl": "30-days-transatlantic-boat-cruise.jpg",
+      "pageUrl": "30-days-transatlantic-boat-cruise"
+    }
+  ],
+  "architectural_tours": [],
+  "european_tours": [],
+  "mountain_tours": [],
+  "beach_tours": [
+    {
+      "id": "97f02d07-a628-4268-ab45-f8448faca8b9",
+      "title": "Thai Island Hopper East",
+      "destination": "Thailand",
+      "price": "1500000",
+      "avearageRating": 1.83,
+      "imagUrl": "thai-island-hopper-east.jpg",
+      "pageUrl": "thai-island-hopper-east"
+    },
+    {
+      "id": "b7ec29fe-9bc1-4007-b02d-943f43a93b8b",
+      "title": "Thai Island Hopper East",
+      "destination": "Thailand",
+      "price": "1500000",
+      "avearageRating": 5.33,
+      "imagUrl": "thai-island-hopper-east.jpg",
+      "pageUrl": "thai-island-hopper-east"
+    }
+  ]
 }

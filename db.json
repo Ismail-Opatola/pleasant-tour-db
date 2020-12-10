@@ -172,6 +172,68 @@
         "2021-08-23T23:14:06.600Z"
       ],
       "category": "beach_tours"
+    },
+    {
+      "id": "ad9f9bcb-36e3-4f94-9c96-40ad667ab749",
+      "title": "Greece Trip: 20 Days - Beaches Beyond Beautiful",
+      "description": {
+        "details": "Start in Athens and end in Rhodes! With the Beach tour Greece Trip: 20 Days - Beaches Beyond Beautiful, you have a 20 days tour package taking you through Athens, Greece and 4 other destinations in Greece. Greece Trip: 20 Days - Beaches Beyond Beautiful includes accommodation, an expert guide, transport and more.",
+        "access": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+        "accomodation": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+        "attractions": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+        "activities": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+        "amenities": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1647031.2706099139!2d27.342277322306177!3d36.267227474379176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14950af92e9b4fad%3A0x27eed014f85bd454!2sRhodes!5e0!3m2!1sen!2sng!4v1607563458654!5m2!1sen!2sng"
+      },
+      "flyerUrl": "greece-trip:-20-days-beaches-beyond-beautiful.pdf",
+      "imgUrl": "greece-trip:-20-days-beaches-beyond-beautiful.jpg",
+      "pageUrl": "greece-trip:-20-days-beaches-beyond-beautiful",
+      "destination": "Greece",
+      "ratings": [
+        {
+          "date": "2020-12-09T08:59:31.823Z",
+          "name": "Max MacGyver MD",
+          "rating": 1
+        },
+        {
+          "date": "2020-12-09T11:00:06.544Z",
+          "name": "Nora Murray Sr.",
+          "rating": 5
+        },
+        {
+          "date": "2020-12-09T23:28:14.730Z",
+          "name": "Leland Sipes",
+          "rating": 3
+        },
+        {
+          "date": "2020-12-09T02:51:18.006Z",
+          "name": "Brendan Bailey",
+          "rating": 5
+        },
+        {
+          "date": "2020-12-09T23:54:56.918Z",
+          "name": "Dianna Rogahn",
+          "rating": 3
+        },
+        {
+          "date": "2020-12-09T23:23:38.952Z",
+          "name": "Marlene Larson",
+          "rating": 2
+        },
+        {
+          "date": "2020-12-09T17:20:52.506Z",
+          "name": "Becky Beatty",
+          "rating": 1
+        }
+      ],
+      "avearageRating": 3.33,
+      "totalRatings": 7,
+      "price": "4000000",
+      "tourDates": [
+        "2021-02-20T21:43:57.438Z",
+        "2021-01-20T15:23:41.926Z"
+      ],
+      "category": "beach_tours"
     }
   ],
   "bookings": {
@@ -222,6 +284,15 @@
       "avearageRating": 5.33,
       "imagUrl": "thai-island-hopper-east.jpg",
       "pageUrl": "thai-island-hopper-east"
+    },
+    {
+      "id": "ad9f9bcb-36e3-4f94-9c96-40ad667ab749",
+      "title": "Greece Trip: 20 Days - Beaches Beyond Beautiful",
+      "destination": "Greece",
+      "price": "4000000",
+      "avearageRating": 3.33,
+      "imagUrl": "greece-trip:-20-days-beaches-beyond-beautiful.jpg",
+      "pageUrl": "greece-trip:-20-days-beaches-beyond-beautiful"
     }
   ]
 }

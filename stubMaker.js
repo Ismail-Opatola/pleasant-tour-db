@@ -127,12 +127,12 @@ writeTour = function(e) {
   console.log(fakeRatings);
 
   // update tours
-  axios.post(`${serverEndpoint}/tours`, newData).then((result) => {
+  axios.post(`${endpoint}/tours`, newData).then((result) => {
     console.log(`response create tour`);
     console.log(result);
 
     // update themes
-    axios.post(`${serverEndpoint}/${newData.category}`, themeData).then((result) => {
+    axios.post(`${endpoint}/${newData.category}`, themeData).then((result) => {
       console.log(`response update theme`);
       console.log(result);
     }).catch((err) => {

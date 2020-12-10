@@ -2,11 +2,15 @@
 
 Getting Started
 
+    git clone https://github.com/Ismail-Opatola/pleasant-tour-db
+
+    npm install
+
 Required dependencies
 
     npm install browserify watchify -g
 
-run
+bundle the js files with browserify
 
     watchify stubMaker.js -o static/bundle.js
 
@@ -14,7 +18,4 @@ start server
 
     json-server --watch db.json 
     
-    or
-    
-    json-server db.json --routes routes.json
-
+    <!-- json-server db.json --routes routes.json -->
